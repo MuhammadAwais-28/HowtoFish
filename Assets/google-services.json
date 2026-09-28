@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414002681702",
+    "project_id": "how-to-fish-e9d2c",
+    "storage_bucket": "how-to-fish-e9d2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414002681702:android:c812f72daa33386e17daa7",
+        "android_client_info": {
+          "package_name": "com.fishing.game.how.to.fish.simulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8LNeh5o46FTXEZjnwfRRsTnmVCI40rag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
