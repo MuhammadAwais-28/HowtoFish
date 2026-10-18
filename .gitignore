@@ -120,3 +120,5 @@ Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle.meta
 Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle 
 Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle 
 Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.so 
+*.bundle 
+*.so 
