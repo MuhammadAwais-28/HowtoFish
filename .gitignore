@@ -111,3 +111,10 @@ InitTestScene*.unity*
 *.apk
 *.aab
 build/
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle.meta
+Assets/MyCustomAddPackage/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle
+Assets/MyCustomAddPackage/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_17_0.bundle 
